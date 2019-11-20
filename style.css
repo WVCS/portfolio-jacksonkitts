@@ -1,0 +1,44 @@
+body {
+  background-color: #129C89;
+ 
+}
+
+H1{
+  text-align: center;
+  color: #2CDAF9;
+  font-size: 500%;
+  font-family: sans-serif;
+}
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  align: center;
+  padding: 10px;
+}
+p{
+  margin-right: 10%;
+  margin-left: 10%;
+  display: block;
+  text-align: left;
+  font-size: 150%;
+  color: white;
+}
+table, th, td {
+  border: 2px solid black;
+  border-collapse: collapse;
+  padding: 5px;
+ 
+  
+}
+a:link {
+  color: purple;
+  background-color: none;
+  text-decoration: underline;
+}
+
+input {
+  
+ 
+  
+}
