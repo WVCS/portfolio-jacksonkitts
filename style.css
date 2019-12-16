@@ -42,3 +42,19 @@ input {
  
   
 }
+ul {
+  position: -webkit-sticky; /* Safari */
+  position: sticky;
+  top: 0;
+   border: 1px solid #e7e7e7;
+  background-color: #999;
+  
+}
+
+li a {
+  color: #666;
+  display: incline;
+}
+li {
+  display: inline;
+}
