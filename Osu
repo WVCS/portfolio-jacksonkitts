@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Oregon State Men's Water Polo Club</title>
+	<link rel="stylesheet" href="style.css">
+</head>
+<body>
+	<header>
+		<div class="logo">
+			<a href="#"><img src="logo.png" alt="OSU Men's Water Polo Club logo"></a>
+		</div>
+		<nav>
+			<ul>
+				<li><a href="#">Home</a></li>
+				<li><a href="#">About Us</a></li>
+				<li><a href="#">Team</a></li>
+				<li><a href="#">Schedule</a></li>
+				<li><a href="#">Contact Us</a></li>
+			</ul>
+		</nav>
+	</header>
+
+	<main>
+		<section class="banner">
+			<h1>Welcome to the Oregon State Men's Water Polo Club</h1>
+			<p>Join our team and compete at the collegiate level.</p>
+			<a href="#" class="button">Join Now</a>
+		</section>
+
+		<section class="about">
+			<h2>About Us</h2>
+			<p>The Oregon State Men's Water Polo Club is a competitive club team that represents Oregon State University at the collegiate level. Our team is made up of dedicated and skilled players who are passionate about the sport of water polo. We welcome players of all skill levels, from beginners to experienced players, and we strive to create a supportive and fun environment for everyone.</p>
+			<p>Our team practices regularly at the OSU Dixon Recreation Center, and we participate in tournaments and matches against other collegiate water polo teams in the region. We are committed to representing OSU with pride and sportsmanship both on and off the field.</p>
+			<a href="#" class="button">Learn More</a>
+		</section>
+
+		<section class="team">
+			<h2>Meet Our Team</h2>
+			<div class="player">
+				<img src="player1.jpg" alt="Player 1">
+				<h3>Player 1</h3>
+				<p>Position: Center Forward</p>
+			</div>
+			<div class="player">
+				<img src="player2.jpg" alt="Player 2">
+				<h3>Player 2</h3>
+				<p>Position: Goalkeeper</p>
+			</div>
+			<div class="player">
+				<img src="player3.jpg" alt="Player 3">
+				<h3>Player 3</h3>
+				<p>Position: Center Defender</p>
+			</div>
+		</section>
+
+		<section class="schedule">
+			<h2>Upcoming Games</h2>
+			<ul>
+				<li>
+					<h3>Game 1</h3>
+					<p>Date: September 1, 2023</p>
+					<p>Location: OSU Dixon Recreation Center</p>
+				</li>
+				<li>
+					<h3>Game 2</h3>
+					<p>Date: September 15, 2023</p>
+					<p>Location: University of Oregon</p>
+				</li>
+				<li>
+					<h3>Game 3</h3>
+					<p>Date: October 1, 2023</p>
+					<p>Location: OSU Dixon Recreation Center</p>
+				</li>
+			</ul
